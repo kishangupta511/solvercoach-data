@@ -1,0 +1,16 @@
+{
+  "bytes": 157662,
+  "cutoff_at": "2026-10-09T00:15:00.000Z",
+  "first_round": 5,
+  "last_round": 18,
+  "players": 1027,
+  "released_at": "2026-10-11T02:24:32.765Z",
+  "round": 5,
+  "season": "2026",
+  "seconds_before_cutoff": -180565,
+  "sha256": "6d4541e1faba35bd1aa3328333ce9acd811e639274bffe3d8cf6c8a0fae03c6f",
+  "source_time": "2026-10-11T02:24:25.549Z",
+  "sport": "nfl",
+  "updated_at": "2026-10-11T02:24:25.549Z",
+  "version": "6d4541e1faba35bd"
+}

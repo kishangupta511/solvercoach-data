@@ -1,0 +1,16 @@
+{
+  "bytes": 219132,
+  "cutoff_at": "2026-10-10T11:30:00.000Z",
+  "first_round": 6,
+  "last_round": 24,
+  "players": 847,
+  "released_at": "2026-10-11T02:24:22.275Z",
+  "round": 6,
+  "season": "2026-27",
+  "seconds_before_cutoff": 17426,
+  "sha256": "f3d56ea2b111efb67e796dddf78001ef7ee7b26fa18f0b59ea2ed3df17392dda",
+  "source_time": "2026-10-10T06:39:33.410Z",
+  "sport": "epl",
+  "updated_at": "2026-10-10T06:39:33.410000Z",
+  "version": "f3d56ea2b111efb6"
+}
