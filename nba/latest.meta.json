@@ -1,0 +1,16 @@
+{
+  "bytes": 427077,
+  "cutoff_at": "2026-10-20T19:00:00.000Z",
+  "first_round": 1,
+  "last_round": 23,
+  "players": 641,
+  "released_at": "2026-10-16T09:25:40.854Z",
+  "round": 1,
+  "season": "2026-27",
+  "seconds_before_cutoff": 380072,
+  "sha256": "cf2281156c9b9f72a88e5086612527c7c362d303e78a83f246cfe4b9d9d67c53",
+  "source_time": "2026-10-16T09:25:27.272Z",
+  "sport": "nba",
+  "updated_at": "2026-10-16T09:25:27.272Z",
+  "version": "cf2281156c9b9f72"
+}
